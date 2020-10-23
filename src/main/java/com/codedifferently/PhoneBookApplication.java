@@ -8,6 +8,7 @@ public class PhoneBookApplication {
         System.out.println("Whats' your name?");
        String name = fred.next();
        System.out.println("Your name is " + name);
+       
 
     }
 
